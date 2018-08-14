@@ -11,7 +11,7 @@ public class CountMovieSpaces2
         int length = quote.length();
         int count = 0;
 
-        for (int i = 0; i <= length; i++)
+        for (int i = 0; i < length; i++)
         {
             if (Character.isWhitespace(quote.charAt(i)))
             {

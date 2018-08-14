@@ -8,7 +8,7 @@ public class CountMovieSpaces
         //System.out.println(length);
         int count = 0;
 
-        for (int i = 0; i <= length; i++)
+        for (int i = 0; i < length; i++)
         {
             if (quote.charAt(i) == ' ')
            {
