@@ -1,5 +1,5 @@
 // Program displays some facts about a string
-public class DebugSeven3
+public class FixDebugSeven3
 {
    public static void main(String[] args)
    { 

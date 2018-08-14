@@ -2,7 +2,7 @@
 // separated by spaces
 // Program converts them to numbers and sums them
 import java.util.*;
-public class DebugSeven2
+public class FixDebugSeven2
 {
    public static void main(String[] args)
    {

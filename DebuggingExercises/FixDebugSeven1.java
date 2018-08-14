@@ -1,5 +1,5 @@
 // Makes String comparisons
-public class DebugSeven1
+public class FixDebugSeven1
 {
    public static void main(String[] args)
    {
